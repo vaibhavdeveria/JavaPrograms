@@ -4,7 +4,7 @@ public class ReverseNo {
 
 	public  void reverse_no() {
 		
-		int no = 1234;
+		int no = 2569;
 		String rev = "";
 		
 		for(int i = 0; i<4; i++) {
